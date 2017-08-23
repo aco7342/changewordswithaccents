@@ -23,6 +23,7 @@ f.addWords( {chg: "conceicao" , fnd: "Concei\u001a\u001ao"} );
 
 
 f.removeWords( "n" );
+f.removeWords( "locao imvel" ); // to delete word locao and imvel 
 
 var texto = "Contrata\u001a\u001ao de im\u001aveis para instala\u001a\u001ao da Ag\u001ancia do IBGE no " +
             "munic\u001apio de Concei\u001a\u001ao do Araguaia/PA.";
@@ -34,7 +35,8 @@ console.log( f.clean(texto) ); ==>  contratacao de imoveis para instalacao da ag
 ## Release Notes
 - v0.0.1 / Aug 22 2017: Initial version
 - v0.0.2 / Aug 22 2017: getWords() method
-
+- v0.0.3 / Aug 23 2017: removeAllWords() method (node-red-contrib-change-accent-word)
+- v0.0.4 / Aug 23 2017: change removeWords() method to delete 1 or more words..
 
 ## License
 
