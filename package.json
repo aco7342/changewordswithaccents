@@ -1,6 +1,6 @@
 {
   "name": "changewordswithaccents",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A javascript filter for change word with accents in portuguese",
   "main": "./lib/changewords",
   "directories": {
