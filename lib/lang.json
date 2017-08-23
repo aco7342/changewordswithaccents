@@ -1,0 +1,16 @@
+{
+   "words" : [
+      {
+         "chg" : "imovel",
+         "fnd" : "imvel"
+      },
+      {
+         "chg" : "constituido",
+         "fnd" : "constitudo"
+      },
+      {
+         "chg" : "locacao",
+         "fnd" : "locao"
+      }
+   ]
+}
