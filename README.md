@@ -32,6 +32,15 @@ console.log( f.clean(texto) ); ==>  contratacao de imoveis para instalacao da ag
 
 
 
+
+Hackathon - Fiesp2017 / ADPF
+  Fiscal Cidadao - Projeto de Combate a Corrupçao
+  BlueMix/NodeRed & Watson Discovery e outros
+
+  "http://compras.dados.gov.br/contratos/v1/contratos.json?offset=0"
+  
+  
+
 ## Release Notes
 - v0.0.1 / Aug 22 2017: Initial version
 - v0.0.2 / Aug 22 2017: getWords() method
