@@ -33,6 +33,7 @@ console.log( f.clean(texto) ); ==>  contratacao de imoveis para instalacao da ag
 
 ## Release Notes
 - v0.0.1 / Aug 22 2017: Initial version
+- v0.0.2 / Aug 22 2017: getWords() method
 
 
 ## License
