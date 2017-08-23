@@ -27,7 +27,7 @@ f.removeWords( "n" );
 var texto = "Contrata\u001a\u001ao de im\u001aveis para instala\u001a\u001ao da Ag\u001ancia do IBGE no " +
             "munic\u001apio de Concei\u001a\u001ao do Araguaia/PA.";
 
-console.log( f.clean(texto) );
+console.log( f.clean(texto) ); ==>  contratacao de imoveis para instalacao da agencia do  ibge   no municipio de conceicao do araguaia/pa.
 
 
 
